@@ -4,10 +4,10 @@ Este es una API desarrollada con Laravel. A continuación, se detallan los pasos
 
 ## Requisitos
 
--   PHP >= 8.3.12
--   Laravel 11
--   Composer >= 2.8.0
--   Git
+PHP >= 8.3.12
+Laravel 11
+Composer >= 2.8.0
+Git
 
 ## Instalación
 
